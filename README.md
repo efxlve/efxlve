@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm love mangas and animes :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efxlve&theme=dark&border_radius=10&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efxlve&theme=dark&show_icons=true&border_radius=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&theme=dark&layout=compact&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
