@@ -27,4 +27,6 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_COMMIT: "False"
           COMMIT_MESSAGE: "✅README updated"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_LANGUAGE: "True"
           
