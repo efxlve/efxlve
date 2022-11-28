@@ -1,4 +1,4 @@
-name: Waka Readme New
+name: Waka Readme Newwww
 
 on:
   workflow_dispatch:
@@ -7,11 +7,14 @@ on:
     - cron: '*/2 * * * *'
 
 jobs:
-  update-charts:
+  update-readme:
     name: WakaTime
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
