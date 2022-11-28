@@ -29,4 +29,35 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efxlve&theme=dark&show_icons=true&border_radius=10" alt="efxlve" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 307 Contributions in the Year 2022
+ > 
+> 📦 154.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   44.74% 
+C#                       8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
+CSS                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+
+```
+
+
+
+ Last Updated on 28/11/2022 20:42:27 UTC
 <!--END_SECTION:waka-->
