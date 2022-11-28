@@ -28,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efxlve&theme=dark&show_icons=true&border_radius=10" alt="efxlve" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efxlve&theme=dark&show_icons=true&border_radius=10" alt="efxlve" /></p>
 
+<figure><embed src="https://wakatime.com/share/@ebcea72d-5fc2-4321-a62d-3b8a5d4ff5c9/fdf5ccf3-5087-41e0-9b38-cb0ea6026e86.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
