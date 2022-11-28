@@ -8,10 +8,10 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaTime
     runs-on: ubuntu-latest
     steps:
-      - uses: efxlve/efxlve@main
+      - uses: efxlve/waka-readme@master
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
