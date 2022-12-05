@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efxlve&theme=dark&show_icons=true&border_radius=10" alt="efxlve" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
