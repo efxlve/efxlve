@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Blueprint, Unreal Engine, Phyton, C++ and AI**
 
-- 😄 Pronouns **He/Him/His**
+- 😄 Pronouns **He/Him**
 
 - 💬 Ask me about **Help for C#, SQL and DevExpress**
 
