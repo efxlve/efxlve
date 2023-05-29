@@ -21,6 +21,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=transparent&showicons=true)]()
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&layout=donut-vertical&langs_count=5&theme=transparent)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&layout=donut&langs_count=5&theme=transparent)]()
 
 
