@@ -19,8 +19,8 @@
 
 <h3 align="left">My stats 📊</h3>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=transparent&showicons=true)]()
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&langs_count=5&theme=transparent)]()
 
 
