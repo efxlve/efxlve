@@ -17,4 +17,9 @@
 - Data science: **NumPy, Pandas, Scikit-learn, TensorFlow**
 - Other: **Git, GitHub, VS Code, Heroku, Netlify**
 
+<h3 align="left">My stats 📊</h3>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&langs_count=5&theme=tokyonight)]()
+
 
