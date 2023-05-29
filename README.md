@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efxlve&label=Profile%20views&color=0e75b6&style=flat" alt="efxlve" /> </p>
 
+<h3 align="left">Contact me 📫</h3>
+
+- [LinkedIn](https://www.linkedin.com/in/efxlve/)
+- [Twitter](https://twitter.com/efxlve)
+- [Instagram](https://www.instagram.com/just.efxlve/)
+- [Email](muharremefecayirbahce@gmail.com)
+
 <h3 align="left">My skills 💻</h3>
 
 - Front-end: **HTML, CSS, Bootstrap, React, Next.js**
