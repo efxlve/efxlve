@@ -8,7 +8,7 @@
 - [LinkedIn](https://www.linkedin.com/in/efxlve/)
 - [Twitter](https://twitter.com/efxlve)
 - [Instagram](https://www.instagram.com/just.efxlve/)
-- [Email](muharremefecayirbahce@gmail.com)
+- [Email](http://muharremefecayirbahce@gmail.com)
 
 <h3 align="left">My skills 💻</h3>
 
