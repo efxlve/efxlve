@@ -17,17 +17,17 @@
 - Data science: **NumPy, Pandas, Scikit-learn, TensorFlow**
 - Other: **Git, GitHub, VS Code, Heroku, Netlify**
 
-<h3 align="left">My stats 📊</h3>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=transparent&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&layout=donut&langs_count=5&theme=transparent)]()
-
 <h3 align="left">My lists 📃</h3>
 
 - [Lecture Notes](https://github.com/efxlve/lecture-notes)
 - [VanillaJS Projects](https://github.com/stars/efxlve/lists/vanillajs-projects)
 - [ReactJS Projects](https://github.com/stars/efxlve/lists/reactjs-projects)
+
+<h3 align="left">My stats 📊</h3>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=transparent&showicons=true)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&layout=donut&langs_count=5&theme=transparent)]()
 
 
 
