@@ -6,8 +6,7 @@
 <h3 align="left">Contact me 📫</h3>
 
 - [LinkedIn](https://www.linkedin.com/in/efxlve/)
-- [Twitter](https://twitter.com/efxlve)
-- [Instagram](https://www.instagram.com/just.efxlve/)
+- [Instagram](https://www.instagram.com/efxlvee/)
 - [Email](http://muharremefecayirbahce@gmail.com)
 
 <h3 align="left">My skills 💻</h3>
