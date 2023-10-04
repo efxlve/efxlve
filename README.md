@@ -18,7 +18,7 @@
 
 <h3 align="left">My lists 📃</h3>
 
-- [Lecture Notes](https://github.com/efxlve/lecture-notes)
+- [My Notes](https://github.com/stars/efxlve/lists/my-notes)
 - [VanillaJS Projects](https://github.com/stars/efxlve/lists/vanillajs-projects)
 - [ReactJS Projects](https://github.com/stars/efxlve/lists/reactjs-projects)
 
