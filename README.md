@@ -19,10 +19,10 @@
 
 <h3 align="left">My lists 📃</h3>
 
-- [Notes](https://github.com/stars/efxlve/lists/my-notes)
-- [Web Projects](https://github.com/stars/efxlve/lists/web-projects)
-- [Desktop Projects](https://github.com/stars/efxlve/lists/desktop-projects)
-- [Mobile Projects](https://github.com/stars/efxlve/lists/mobile-projects)
+- [✍️ Notes](https://github.com/stars/efxlve/lists/my-notes)
+- [📃 Web Projects](https://github.com/stars/efxlve/lists/web-projects)
+- [🖥️ Desktop Projects](https://github.com/stars/efxlve/lists/desktop-projects)
+- [📱 Mobile Projects](https://github.com/stars/efxlve/lists/mobile-projects)
 
 
 
