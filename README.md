@@ -23,7 +23,7 @@
 - [📃 Web Projects](https://github.com/stars/efxlve/lists/web-projects)
 - [🖥️ Desktop Projects](https://github.com/stars/efxlve/lists/desktop-projects)
 - [📱 Mobile Projects](https://github.com/stars/efxlve/lists/mobile-projects)
-- [🌎 Browser Extensions](https://github.com/stars/efxlve/lists/browser-extensions)
+- [🌎 Browser Extension Projects](https://github.com/stars/efxlve/lists/browser-extension-projects)
 
 
 
