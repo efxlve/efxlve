@@ -8,6 +8,7 @@
 - [LinkedIn](https://www.linkedin.com/in/efxlve/)
 - [Instagram](https://www.instagram.com/efxlves/)
 - [Threads](https://www.threads.net/@efxlves)
+- [itch.io](https://efxlve.itch.io/)
 - [Email](http://muharremefecayirbahce@gmail.com)
 
 <h3 align="left">My skills 💻</h3>
