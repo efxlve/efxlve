@@ -6,7 +6,8 @@
 <h3 align="left">Contact me 📫</h3>
 
 - [LinkedIn](https://www.linkedin.com/in/efxlve/)
-- [Instagram](https://www.instagram.com/efxlvee/)
+- [Instagram](https://www.instagram.com/efxlves/)
+- [Threads](https://www.threads.net/@efxlves)
 - [Email](http://muharremefecayirbahce@gmail.com)
 
 <h3 align="left">My skills 💻</h3>
@@ -18,15 +19,10 @@
 
 <h3 align="left">My lists 📃</h3>
 
-- [My Notes](https://github.com/stars/efxlve/lists/my-notes)
-- [VanillaJS Projects](https://github.com/stars/efxlve/lists/vanillajs-projects)
-- [ReactJS Projects](https://github.com/stars/efxlve/lists/reactjs-projects)
-
-<h3 align="left">My stats 📊</h3>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=efxlve&count_private=true&theme=transparent&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=efxlve&layout=donut&langs_count=5&theme=transparent)]()
+- [Notes](https://github.com/stars/efxlve/lists/my-notes)
+- [Web Projects](https://github.com/stars/efxlve/lists/web-projects)
+- [Desktop Projects](https://github.com/stars/efxlve/lists/desktop-projects)
+- [Mobile Projects](https://github.com/stars/efxlve/lists/mobile-projects)
 
 
 
