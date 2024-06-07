@@ -1,2 +1,4 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('glitch');]{x0000}$}
+// Hello, this is <b>Muharrem Efe Çayırbahçe</b>.<br>
+// <br>
+// I'm a <b>student</b> and <b>software developer</b> living in <b>Antalya, Türkiye.</b><br>
+// I love open source development and I build things on my GitHub profile.
