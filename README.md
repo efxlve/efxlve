@@ -1,4 +1,12 @@
-// Hello, this is <b>Muharrem Efe Çayırbahçe</b>.<br>
-// <br>
-// I'm a <b>student</b> and <b>full-stack developer</b> living in <b>Antalya, Türkiye.</b><br>
-// I love open source development and I build things on my GitHub profile.
+// Dear programmer:
+// When I wrote this code, only god and
+// I knew how it worked.
+// Now, only god knows it!
+//
+// Therefore, if you are trying to optimize
+// this routine and it fails (most surely),
+// please increase this counter as a
+// warning for the next person:
+//
+// total_hours_wasted_here = 166550
+//
