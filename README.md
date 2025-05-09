@@ -28,7 +28,7 @@ Hi, I'm Muharrem Efe Çayırbahçe (efxlve), a passionate developer who loves bu
   *Why I Built It*: [Your motivation or learning goal].
 
 ## 📫 Get in Touch
-- GitHub: [efxlve](https://github.com/efxlve)
-- [Add other links, e.g., LinkedIn, Twitter/X, or portfolio]
+- X: [X](https://x.com/efxlve)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/efxlve/)
 
 Feel free to explore my repositories, open issues, or contribute to my projects! 😇
